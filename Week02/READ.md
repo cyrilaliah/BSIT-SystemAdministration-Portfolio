@@ -42,7 +42,7 @@ The planned software environment includes Windows 11 Pro, Ubuntu Server, Microso
 The enterprise network follows this general topology:
 ## Embedded Network Diagram
 
-![ABC Startup Solutions Network Diagram](diagram/ABCStartupSolutions.draw.io.png)
+![ABC Startup Solutions Network Diagram](diagram/ABCStartupSolutions.drawio.png)
 
 ```
 
